@@ -1,0 +1,6 @@
+module react_native_ampup_smart_car {
+  umbrella header "react-native-ampup-smart-car-umbrella.h"
+
+  export *
+  module * { export * }
+}

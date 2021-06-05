@@ -1,0 +1,6 @@
+module Pods_AmpupSmartCarExample {
+  umbrella header "Pods-AmpupSmartCarExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

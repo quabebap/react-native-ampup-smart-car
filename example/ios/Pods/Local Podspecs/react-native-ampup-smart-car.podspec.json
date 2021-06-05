@@ -1,0 +1,21 @@
+{
+  "name": "react-native-ampup-smart-car",
+  "version": "0.1.0",
+  "summary": "Ampup develop for smart car",
+  "homepage": "https://github.com/quabebap/react-native-ampup-smart-car#readme",
+  "license": "MIT",
+  "authors": "Ampup.io <lam.le@ampup.io> (https://github.com/quabebap)",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/quabebap/react-native-ampup-smart-car.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}
